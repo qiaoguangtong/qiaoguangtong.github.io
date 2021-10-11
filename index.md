@@ -41,4 +41,8 @@
 
 - HTML/CSS/JavaScript
 - Vue
+
 - Linux
+# 个人博客
+
+[CSDN博客](https://blog.csdn.net/weixin_42568655)
