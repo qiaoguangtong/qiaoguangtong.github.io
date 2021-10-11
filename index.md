@@ -38,7 +38,6 @@
 
 - Java SE ， C/C++
 
-- HTML/CSS/JavaScript
 - Vue
 
 - Linux
