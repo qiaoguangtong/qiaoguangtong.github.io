@@ -38,7 +38,7 @@
 # 个人能力
 
 - Java SE ， C/C++
-- HTML/CSS/JavaScript
 
+- HTML/CSS/JavaScript
 - Vue
 - Linux
