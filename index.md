@@ -17,8 +17,12 @@
 
 # Education Experiences
 
-- Graduate School Of Northeastern University	                                            Computer Science & Technology                                2021-？
-- School Of Information Science and Engineering In Shandong Normal University             Computer Science & Technology                                2017-2021
+- Graduate School Of Northeastern University
+  - Computer Science & Technology
+  - 2021-？
+- School Of Information Science and Engineering In Shandong Normal University
+  - Computer Science & Technology                                
+  - 2017-2021
 
 # Reading List
 
