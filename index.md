@@ -1,40 +1,36 @@
 <table border="0">
   <tr>
-    <td width="75%">
-      <h1>乔广通</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>东北大学研究生院秦皇岛分院</b></p>
-      <p><b>邮箱：qiaoguangtong@qq.com</b></p>
-      <p><b>地址：河北省秦皇岛经济技术开发区泰山路143号</b></p>
-      <p><b>邮编：066004</b></p>
-    </td>
     <td width="25%">
       <img src="/image.jpg" width="100%">   
+    </td>
+    <td width="75%">
+      <h1>Guangtong Qiao(乔广通)</h1>
+      <p><b>Master Degree Candidate</b></p>
+      <p><b>Graduate School Of Northeastern University</b></p>
+      <p><b>Email：qiaoguangtong@qq.com</b></p>
+      <p><b>Address：Taishan Road No. 143, Qinhuangdao, Hebei Province, China</b></p>
+      <p><b>Post：066004</b></p>
     </td>
   </tr>
 </table>
 
 
-# 教育经历
+# Education Experiences
 
-- 东北大学研究生院秦皇岛分院	                 计算机科学与技术                                2021-？
-- 山东师范大学信息科学与工程学院             计算机科学与技术                                2017-2021
+- Graduate School Of Northeastern University	                                            Computer Science & Technology                                2021-？
+- School Of Information Science and Engineering In Shandong Normal University             Computer Science & Technology                                2017-2021
 
-# 最新消息
+# Reading List
 
-- 无
+- Reconstruction-based Anomaly Detection with Completely Random Forest. [PDF](/reading/sdm21anomalyCRF.pdf) 
 
-# 研究方向
+# Research Interest
 
-- 可解释推荐系统
-- 数据挖掘
-- 机器学习
+- Explainable Recommendation
+- Data Mining
+- Machine Learning
 
-# 荣誉奖励
-
-- 2019全国大学生数学建模竞赛山东赛区一等奖
-
-# 个人能力
+# Personal Skills
 
 - Java SE ， C/C++
 
@@ -42,6 +38,6 @@
 
 - Linux
 
-# 个人博客
+# Blogs
 
-[CSDN博客](https://blog.csdn.net/weixin_42568655)
+[CSDN-BLOG](https://blog.csdn.net/weixin_42568655)
